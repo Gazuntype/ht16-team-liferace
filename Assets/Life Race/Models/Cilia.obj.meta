@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: ddaed4dab33b67440ba278298c2ae08f
+timeCreated: 1479558973
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: group3_pCube10
+    100004: group3_pCube11
+    100006: group3_pCube12
+    100008: group3_pCube13
+    100010: group3_pCube14
+    100012: group3_pCube15
+    100014: group3_pCube16
+    100016: group3_pCube5
+    100018: group3_pCube6
+    100020: group3_pCube7
+    100022: group3_pCube8
+    100024: group3_pCylinder2
+    100026: group3_pCylinder3
+    100028: group3_pCylinder4
+    100030: group3_pCylinder5
+    100032: group3_pCylinder6
+    100034: pCube4_group3
+    400000: //RootNode
+    400002: group3_pCube10
+    400004: group3_pCube11
+    400006: group3_pCube12
+    400008: group3_pCube13
+    400010: group3_pCube14
+    400012: group3_pCube15
+    400014: group3_pCube16
+    400016: group3_pCube5
+    400018: group3_pCube6
+    400020: group3_pCube7
+    400022: group3_pCube8
+    400024: group3_pCylinder2
+    400026: group3_pCylinder3
+    400028: group3_pCylinder4
+    400030: group3_pCylinder5
+    400032: group3_pCylinder6
+    400034: pCube4_group3
+    2300000: group3_pCube10
+    2300002: group3_pCube11
+    2300004: group3_pCube12
+    2300006: group3_pCube13
+    2300008: group3_pCube14
+    2300010: group3_pCube15
+    2300012: group3_pCube16
+    2300014: group3_pCube5
+    2300016: group3_pCube6
+    2300018: group3_pCube7
+    2300020: group3_pCube8
+    2300022: group3_pCylinder2
+    2300024: group3_pCylinder3
+    2300026: group3_pCylinder4
+    2300028: group3_pCylinder5
+    2300030: group3_pCylinder6
+    2300032: pCube4_group3
+    3300000: group3_pCube10
+    3300002: group3_pCube11
+    3300004: group3_pCube12
+    3300006: group3_pCube13
+    3300008: group3_pCube14
+    3300010: group3_pCube15
+    3300012: group3_pCube16
+    3300014: group3_pCube5
+    3300016: group3_pCube6
+    3300018: group3_pCube7
+    3300020: group3_pCube8
+    3300022: group3_pCylinder2
+    3300024: group3_pCylinder3
+    3300026: group3_pCylinder4
+    3300028: group3_pCylinder5
+    3300030: group3_pCylinder6
+    3300032: pCube4_group3
+    4300000: group3_pCube10
+    4300002: group3_pCube11
+    4300004: group3_pCube12
+    4300006: group3_pCube13
+    4300008: group3_pCube14
+    4300010: group3_pCube15
+    4300012: group3_pCube16
+    4300014: group3_pCube5
+    4300016: group3_pCube6
+    4300018: group3_pCube7
+    4300020: group3_pCube8
+    4300022: group3_pCylinder2
+    4300024: group3_pCylinder3
+    4300026: group3_pCylinder4
+    4300028: group3_pCylinder5
+    4300030: group3_pCylinder6
+    4300032: pCube4_group3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: d2a33ea82d380d24ca8b4131e4a79e7d
+timeCreated: 1479556439
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: DeformationSystem
+    100002: FKExtrajoint1_R
+    100004: FKExtraRoot_M
+    100006: FKIKParentConstraintSpine_R
+    100008: FKIKSpine_R
+    100010: FKIKSystem
+    100012: FKjoint1_R
+    100014: FKOffsetjoint1_R
+    100016: FKOffsetRoot_M
+    100018: FKParentConstraintToRoot_M
+    100020: FKRoot_M
+    100022: FKSystem
+    100024: FKXjoint1_R
+    100026: Group
+    100028: IKCurve
+    100030: IKExtraSpine1_R
+    100032: IKExtraSpine2_R
+    100034: IKHandle
+    100036: IKJoints
+    100038: IKOffsetSpine1_R
+    100040: IKOffsetSpine2_R
+    100042: IKParentConstraintjoint1_R
+    100044: IKRootConstraint
+    100046: IKScalerjoint1_R
+    100048: IKSpine1_R
+    100050: IKSpine2_R
+    100052: IKSpineCurve_R
+    100054: IKSpineLocator0_R
+    100056: IKSpineLocator1_R
+    100058: IKSpineLocator2_R
+    100060: IKSpineLocator3_R
+    100062: IKSpjoint1_R
+    100064: IKSpjoint1FollowOffset_R
+    100066: IKSpSpineOffset_R
+    100068: IKStiffOrientSpine1_R
+    100070: IKStiffOrientSpine2_R
+    100072: IKSystem
+    100074: IKXjoint1_R
+    100076: IKXOffsetjoint1_R
+    100078: joint1_R
+    100080: joint2_R
+    100082: joint3_R
+    100084: joint4_R
+    100086: Main
+    100088: male
+    100090: MotionSystem
+    100092: Root_M
+    100094: //RootNode
+    100096: Tail0_M
+    100098: Tail10_M
+    100100: Tail11_M
+    100102: Tail12_M
+    100104: Tail13_M
+    100106: Tail1_M
+    100108: Tail2_M
+    100110: Tail3_M
+    100112: Tail4_M
+    100114: Tail5_M
+    100116: Tail6_2_M
+    100118: Tail6_M
+    100120: Tail7_M
+    100122: Tail8_M
+    100124: Tail9_M
+    400000: DeformationSystem
+    400002: FKExtrajoint1_R
+    400004: FKExtraRoot_M
+    400006: FKIKParentConstraintSpine_R
+    400008: FKIKSpine_R
+    400010: FKIKSystem
+    400012: FKjoint1_R
+    400014: FKOffsetjoint1_R
+    400016: FKOffsetRoot_M
+    400018: FKParentConstraintToRoot_M
+    400020: FKRoot_M
+    400022: FKSystem
+    400024: FKXjoint1_R
+    400026: Group
+    400028: IKCurve
+    400030: IKExtraSpine1_R
+    400032: IKExtraSpine2_R
+    400034: IKHandle
+    400036: IKJoints
+    400038: IKOffsetSpine1_R
+    400040: IKOffsetSpine2_R
+    400042: IKParentConstraintjoint1_R
+    400044: IKRootConstraint
+    400046: IKScalerjoint1_R
+    400048: IKSpine1_R
+    400050: IKSpine2_R
+    400052: IKSpineCurve_R
+    400054: IKSpineLocator0_R
+    400056: IKSpineLocator1_R
+    400058: IKSpineLocator2_R
+    400060: IKSpineLocator3_R
+    400062: IKSpjoint1_R
+    400064: IKSpjoint1FollowOffset_R
+    400066: IKSpSpineOffset_R
+    400068: IKStiffOrientSpine1_R
+    400070: IKStiffOrientSpine2_R
+    400072: IKSystem
+    400074: IKXjoint1_R
+    400076: IKXOffsetjoint1_R
+    400078: joint1_R
+    400080: joint2_R
+    400082: joint3_R
+    400084: joint4_R
+    400086: Main
+    400088: male
+    400090: MotionSystem
+    400092: Root_M
+    400094: //RootNode
+    400096: Tail0_M
+    400098: Tail10_M
+    400100: Tail11_M
+    400102: Tail12_M
+    400104: Tail13_M
+    400106: Tail1_M
+    400108: Tail2_M
+    400110: Tail3_M
+    400112: Tail4_M
+    400114: Tail5_M
+    400116: Tail6_2_M
+    400118: Tail6_M
+    400120: Tail7_M
+    400122: Tail8_M
+    400124: Tail9_M
+    4300000: male
+    7400000: SpermMove
+    9500000: //RootNode
+    13700000: male
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SpermMove
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Group
+        weight: 1
+      - path: Group/Main
+        weight: 1
+      - path: Group/Main/DeformationSystem
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/joint3_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/joint3_R/joint4_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/joint3_R/joint4_R/joint2_R
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/Tail0_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/Tail0_M/Tail1_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/Tail0_M/Tail1_M/Tail2_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/Tail0_M/Tail1_M/Tail2_M/Tail3_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M/Tail5_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M/Tail5_M/Tail6_2_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M/Tail5_M/Tail6_2_M/Tail7_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M/Tail5_M/Tail6_2_M/Tail7_M/Tail8_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M/Tail5_M/Tail6_2_M/Tail7_M/Tail8_M/Tail9_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M/Tail5_M/Tail6_2_M/Tail7_M/Tail8_M/Tail9_M/Tail10_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M/Tail5_M/Tail6_2_M/Tail7_M/Tail8_M/Tail9_M/Tail10_M/Tail11_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M/Tail5_M/Tail6_2_M/Tail7_M/Tail8_M/Tail9_M/Tail10_M/Tail11_M/Tail12_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M/Tail5_M/Tail6_2_M/Tail7_M/Tail8_M/Tail9_M/Tail10_M/Tail11_M/Tail12_M/Tail13_M
+        weight: 1
+      - path: Group/Main/DeformationSystem/Root_M/joint1_R/Tail0_M/Tail1_M/Tail2_M/Tail3_M/Tail4_M/Tail5_M/Tail6_2_M/Tail7_M/Tail8_M/Tail9_M/Tail10_M/Tail11_M/Tail12_M/Tail13_M/Tail6_M
+        weight: 1
+      - path: Group/Main/MotionSystem
+        weight: 1
+      - path: Group/Main/MotionSystem/FKIKSystem
+        weight: 1
+      - path: Group/Main/MotionSystem/FKIKSystem/FKIKParentConstraintSpine_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKIKSystem/FKIKParentConstraintSpine_R/FKIKSpine_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKOffsetRoot_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKOffsetRoot_M/FKExtraRoot_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKOffsetRoot_M/FKExtraRoot_M/FKRoot_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToRoot_M
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToRoot_M/FKOffsetjoint1_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToRoot_M/FKOffsetjoint1_R/FKExtrajoint1_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToRoot_M/FKOffsetjoint1_R/FKExtrajoint1_R/FKjoint1_R
+        weight: 1
+      - path: Group/Main/MotionSystem/FKSystem/FKParentConstraintToRoot_M/FKOffsetjoint1_R/FKExtrajoint1_R/FKjoint1_R/FKXjoint1_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKCurve
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKCurve/IKSpineCurve_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKRootConstraint
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKRootConstraint/IKOffsetSpine1_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKRootConstraint/IKOffsetSpine1_R/IKExtraSpine1_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKRootConstraint/IKOffsetSpine1_R/IKExtraSpine1_R/IKSpine1_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKRootConstraint/IKOffsetSpine1_R/IKExtraSpine1_R/IKSpine1_R/IKSpineLocator0_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKRootConstraint/IKOffsetSpine1_R/IKExtraSpine1_R/IKSpine1_R/IKStiffOrientSpine1_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKRootConstraint/IKOffsetSpine1_R/IKExtraSpine1_R/IKSpine1_R/IKStiffOrientSpine1_R/IKSpineLocator1_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKRootConstraint/IKOffsetSpine2_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKRootConstraint/IKOffsetSpine2_R/IKExtraSpine2_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKRootConstraint/IKOffsetSpine2_R/IKExtraSpine2_R/IKSpine2_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKRootConstraint/IKOffsetSpine2_R/IKExtraSpine2_R/IKSpine2_R/IKSpineLocator3_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKRootConstraint/IKOffsetSpine2_R/IKExtraSpine2_R/IKSpine2_R/IKStiffOrientSpine2_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKRootConstraint/IKOffsetSpine2_R/IKExtraSpine2_R/IKSpine2_R/IKStiffOrientSpine2_R/IKSpineLocator2_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKHandle/IKScalerjoint1_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKJoints
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKJoints/IKParentConstraintjoint1_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKJoints/IKParentConstraintjoint1_R/IKXOffsetjoint1_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKJoints/IKParentConstraintjoint1_R/IKXOffsetjoint1_R/IKXjoint1_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKJoints/IKSpSpineOffset_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKJoints/IKSpSpineOffset_R/IKSpjoint1_R
+        weight: 1
+      - path: Group/Main/MotionSystem/IKSystem/IKJoints/IKSpSpineOffset_R/IKSpjoint1_R/IKSpjoint1FollowOffset_R
+        weight: 1
+      - path: male
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

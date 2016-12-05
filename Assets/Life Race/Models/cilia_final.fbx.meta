@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: c8b0f3d48fb748141927a7f1611838de
+timeCreated: 1479567973
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: geo
+    100004: joint1
+    100006: joint10
+    100008: joint10 1
+    100010: joint10 2
+    100012: joint10 3
+    100014: joint11
+    100016: joint11 1
+    100018: joint11 2
+    100020: joint11 3
+    100022: joint12
+    100024: joint12 1
+    100026: joint12 2
+    100028: joint12 3
+    100030: joint13
+    100032: joint13 1
+    100034: joint13 2
+    100036: joint13 3
+    100038: joint14
+    100040: joint14 1
+    100042: joint14 2
+    100044: joint14 3
+    100046: joint15
+    100048: joint15 1
+    100050: joint15 2
+    100052: joint15 3
+    100054: joint16
+    100056: joint17
+    100058: joint18
+    100060: joint19
+    100062: joint2
+    100064: joint20
+    100066: joint20 1
+    100068: joint21
+    100070: joint21 1
+    100072: joint22
+    100074: joint22 1
+    100076: joint23
+    100078: joint23 1
+    100080: joint24
+    100082: joint24 1
+    100084: joint25
+    100086: joint25 1
+    100088: joint26
+    100090: joint26 1
+    100092: joint27
+    100094: joint27 1
+    100096: joint28
+    100098: joint28 1
+    100100: joint29
+    100102: joint29 1
+    100104: joint3
+    100106: joint30
+    100108: joint30 1
+    100110: joint31
+    100112: joint32
+    100114: joint4
+    100116: joint5
+    100118: joint5 1
+    100120: joint5 2
+    100122: joint5 3
+    100124: joint6
+    100126: joint6 1
+    100128: joint6 2
+    100130: joint6 3
+    100132: joint7
+    100134: joint7 1
+    100136: joint7 2
+    100138: joint7 3
+    100140: joint8
+    100142: joint8 1
+    100144: joint8 2
+    100146: joint8 3
+    100148: joint9
+    100150: joint9 1
+    100152: joint9 2
+    100154: joint9 3
+    100156: pCube10
+    100158: pCube11
+    100160: pCube12
+    100162: pCube13
+    100164: pCube14
+    100166: pCube15
+    100168: pCube16
+    100170: pCube4
+    100172: pCube5
+    100174: pCube6
+    100176: pCube7
+    100178: pCube8
+    100180: pCylinder10
+    100182: pCylinder11
+    100184: pCylinder5
+    100186: pCylinder7
+    100188: pCylinder8
+    100190: pCylinder9
+    400000: //RootNode
+    400002: geo
+    400004: joint1
+    400006: joint10
+    400008: joint10 1
+    400010: joint10 2
+    400012: joint10 3
+    400014: joint11
+    400016: joint11 1
+    400018: joint11 2
+    400020: joint11 3
+    400022: joint12
+    400024: joint12 1
+    400026: joint12 2
+    400028: joint12 3
+    400030: joint13
+    400032: joint13 1
+    400034: joint13 2
+    400036: joint13 3
+    400038: joint14
+    400040: joint14 1
+    400042: joint14 2
+    400044: joint14 3
+    400046: joint15
+    400048: joint15 1
+    400050: joint15 2
+    400052: joint15 3
+    400054: joint16
+    400056: joint17
+    400058: joint18
+    400060: joint19
+    400062: joint2
+    400064: joint20
+    400066: joint20 1
+    400068: joint21
+    400070: joint21 1
+    400072: joint22
+    400074: joint22 1
+    400076: joint23
+    400078: joint23 1
+    400080: joint24
+    400082: joint24 1
+    400084: joint25
+    400086: joint25 1
+    400088: joint26
+    400090: joint26 1
+    400092: joint27
+    400094: joint27 1
+    400096: joint28
+    400098: joint28 1
+    400100: joint29
+    400102: joint29 1
+    400104: joint3
+    400106: joint30
+    400108: joint30 1
+    400110: joint31
+    400112: joint32
+    400114: joint4
+    400116: joint5
+    400118: joint5 1
+    400120: joint5 2
+    400122: joint5 3
+    400124: joint6
+    400126: joint6 1
+    400128: joint6 2
+    400130: joint6 3
+    400132: joint7
+    400134: joint7 1
+    400136: joint7 2
+    400138: joint7 3
+    400140: joint8
+    400142: joint8 1
+    400144: joint8 2
+    400146: joint8 3
+    400148: joint9
+    400150: joint9 1
+    400152: joint9 2
+    400154: joint9 3
+    400156: pCube10
+    400158: pCube11
+    400160: pCube12
+    400162: pCube13
+    400164: pCube14
+    400166: pCube15
+    400168: pCube16
+    400170: pCube4
+    400172: pCube5
+    400174: pCube6
+    400176: pCube7
+    400178: pCube8
+    400180: pCylinder10
+    400182: pCylinder11
+    400184: pCylinder5
+    400186: pCylinder7
+    400188: pCylinder8
+    400190: pCylinder9
+    4300000: pCube4
+    4300002: pCube5
+    4300004: pCube6
+    4300006: pCube7
+    4300008: pCube15
+    4300010: pCube8
+    4300012: pCube10
+    4300014: pCube11
+    4300016: pCube12
+    4300018: pCube13
+    4300020: pCube16
+    4300022: pCube14
+    4300024: pCylinder5
+    4300026: pCylinder7
+    4300028: pCylinder8
+    4300030: pCylinder9
+    4300032: pCylinder10
+    4300034: pCylinder11
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: pCube10
+    13700002: pCube11
+    13700004: pCube12
+    13700006: pCube13
+    13700008: pCube14
+    13700010: pCube15
+    13700012: pCube16
+    13700014: pCube4
+    13700016: pCube5
+    13700018: pCube6
+    13700020: pCube7
+    13700022: pCube8
+    13700024: pCylinder10
+    13700026: pCylinder11
+    13700028: pCylinder5
+    13700030: pCylinder7
+    13700032: pCylinder8
+    13700034: pCylinder9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
